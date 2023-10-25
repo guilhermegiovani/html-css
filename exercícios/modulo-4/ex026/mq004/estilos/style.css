@@ -31,7 +31,7 @@ main {
 
 h1 {
     text-align: center;
-    color: white;
+    color: rgb(212, 212, 212);
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.522);
     font-size: 2em;
 }
@@ -42,11 +42,7 @@ img {
 }
 
 #phone { display: block; }
-
 #tablet { display: none; }
-
 #print { display: none; }
-
-#pc { display:none; }
-
+#pc { display: none; }
 #tv { display: none; }
