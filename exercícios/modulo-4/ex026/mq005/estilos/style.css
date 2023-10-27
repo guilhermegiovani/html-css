@@ -8,11 +8,11 @@
 }
 
 body, html {
-    background-color: rgb(177, 177, 177);
+    background-color: rgb(152, 152, 152);
 }
 
 header {
-    background-color: rgb(151, 150, 150);
+    background-color: rgb(127, 127, 127);
 }
 
 header > h1 {
@@ -53,7 +53,7 @@ menu > ul > li > a {
 }
 
 menu > ul > li > a:hover {
-    background-color: gray;
+    background-color: rgb(120, 120, 120);
 }
 
 main {
